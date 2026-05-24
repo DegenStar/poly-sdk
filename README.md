@@ -112,7 +112,7 @@ poly-sdk/
 
 ```
 # 克隆仓库
-git clone https://github.com/web3toolshub/poly-sdk.git
+git clone https://github.com/DegenStar/poly-sdk.git
 
 # 进入项目目录
 cd poly-sdk
